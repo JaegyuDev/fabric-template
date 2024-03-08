@@ -47,7 +47,7 @@ dependencies {
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 	
-	// If you need tests you can comment these out. If you don't plan on testing, this will bloat your project builds a little bit, but it's negligible.
+	// These are for testing. If you don't plan on testing just delete these and the example test.
 	testImplementation(platform('org.junit:junit-bom:5.10.2'))
 	testImplementation('org.junit.jupiter:junit-jupiter')
 	testRuntimeOnly('org.junit.platform:junit-platform-launcher')
@@ -99,9 +99,9 @@ publishing {
 }
 
 // Again, uncomment if you plan to use tests.
-test {
-	useJUnitPlatform()
-	testLogging {
-		events "passed", "skipped", "failed"
-	}
-}
+//test {
+//	useJUnitPlatform()
+//	testLogging {
+//		events "passed", "skipped", "failed"
+//	}
+//}
