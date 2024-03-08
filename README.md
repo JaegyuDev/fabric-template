@@ -10,7 +10,7 @@ I'd replace `JaegyuDev/fabric-template` with your own template repo.
 
 ## Tests
 To enable tests you'll need to uncomment some lines in the `build.gradle` file. They are already marked, you just need to find them.
-
+Then you can enable the workflow by running `gh workflow enable test`
 ## Notes
 This isn't meant to be used by others. It can however be used as a reference -or directly- to create your own templates. Simply change the paths under `src/` and the corresponding fields in `src/main/resources/fabric.mod.json`.
 
