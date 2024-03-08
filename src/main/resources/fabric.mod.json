@@ -3,15 +3,15 @@
 	"id": "fabric-template",
 	"version": "${version}",
 	"name": "fabric-template",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a template mod I use for my own projects. You can use this if you'd like, however I cannot guarantee support for it.",
 	"authors": [
-		"Me!"
+		"JaegyuDev"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/JaegyuDev/fabric-template",
+		"sources": "https://github.com/JaegyuDev/fabric-template"
 	},
-	"license": "CC0-1.0",
+	"license": "BSD-3-Clause",
 	"icon": "assets/fabric-template/icon.png",
 	"environment": "*",
 	"entrypoints": {
