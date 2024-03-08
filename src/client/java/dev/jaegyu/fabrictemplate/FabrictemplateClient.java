@@ -1,4 +1,4 @@
-package fabrictemplate;
+package dev.jaegyu.fabrictemplate;
 
 import net.fabricmc.api.ClientModInitializer;
 

@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"fabrictemplate.Fabrictemplate"
+			"dev.jaegyu.fabrictemplate.Fabrictemplate"
 		],
 		"client": [
-			"fabrictemplate.FabrictemplateClient"
+			"dev.jaegyu.fabrictemplate.FabrictemplateClient"
 		],
 		"fabric-datagen": [
-			"fabrictemplate.FabrictemplateDataGenerator"
+			"dev.jaegyu.fabrictemplate.FabrictemplateDataGenerator"
 		]
 	},
 	"mixins": [

@@ -1,4 +1,4 @@
-package fabrictemplate;
+package dev.jaegyu.fabrictemplate;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -19,4 +19,5 @@ public class Fabrictemplate implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 	}
+
 }
