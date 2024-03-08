@@ -12,4 +12,4 @@ This is the entire purpose of this template. I recommend using GithubCLI which s
 I'd replace `JaegyuDev/fabric-template` with your own template repo.
 
 ## License
-I use a `BSD-3-Clause` license in my projects. However, if you use this in any form, I am waiving all rights, and you don't need to credit me as long as you remove my contact information from the `fabric.mod.json` file.
+I use a `BSD-3-Clause` license in my projects. However, if you use this in any form, I am waiving all rights, and you don't need to credit me as long as you remove my contact information from the `fabric.mod.json` file. This only applies to the `JaegyuDev/fabric-template` repo.
